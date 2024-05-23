@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CEDT\\softsqaure_internship\\DOTNET\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53310C14-1DBC-41E2-A36C-4EFF9A0D606D}|Project1\\Project1.csproj|d:\\cedt\\softsqaure_internship\\dotnet\\project1\\project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53310C14-1DBC-41E2-A36C-4EFF9A0D606D}|Project1\\Project1.csproj|solutionrelative:project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53310C14-1DBC-41E2-A36C-4EFF9A0D606D}|Project1\\Project1.csproj|d:\\cedt\\softsqaure_internship\\dotnet\\project1\\project1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53310C14-1DBC-41E2-A36C-4EFF9A0D606D}|Project1\\Project1.csproj|solutionrelative:project1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53310C14-1DBC-41E2-A36C-4EFF9A0D606D}|Project1\\Project1.csproj|d:\\cedt\\softsqaure_internship\\dotnet\\project1\\project1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53310C14-1DBC-41E2-A36C-4EFF9A0D606D}|Project1\\Project1.csproj|solutionrelative:project1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53310C14-1DBC-41E2-A36C-4EFF9A0D606D}|Project1\\Project1.csproj|d:\\cedt\\softsqaure_internship\\dotnet\\project1\\project1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53310C14-1DBC-41E2-A36C-4EFF9A0D606D}|Project1\\Project1.csproj|solutionrelative:project1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53310C14-1DBC-41E2-A36C-4EFF9A0D606D}|Project1\\Project1.csproj|d:\\cedt\\softsqaure_internship\\dotnet\\project1\\project1\\project1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{53310C14-1DBC-41E2-A36C-4EFF9A0D606D}|Project1\\Project1.csproj|solutionrelative:project1\\project1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 188,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\CEDT\\softsqaure_internship\\DOTNET\\Project1\\Project1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Project1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\CEDT\\softsqaure_internship\\DOTNET\\Project1\\Project1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Project1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:30:31.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\CEDT\\softsqaure_internship\\DOTNET\\Project1\\Project1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Project1\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\CEDT\\softsqaure_internship\\DOTNET\\Project1\\Project1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Project1\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAYwE8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:20:55.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CEDT\\softsqaure_internship\\DOTNET\\Project1\\Project1\\Program.cs",
+              "RelativeDocumentMoniker": "Project1\\Program.cs",
+              "ToolTip": "D:\\CEDT\\softsqaure_internship\\DOTNET\\Project1\\Project1\\Program.cs",
+              "RelativeToolTip": "Project1\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAEwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:17:42.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Project1.http",
+              "DocumentMoniker": "D:\\CEDT\\softsqaure_internship\\DOTNET\\Project1\\Project1\\Project1.http",
+              "RelativeDocumentMoniker": "Project1\\Project1.http",
+              "ToolTip": "D:\\CEDT\\softsqaure_internship\\DOTNET\\Project1\\Project1\\Project1.http",
+              "RelativeToolTip": "Project1\\Project1.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-23T17:17:41.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\CEDT\\softsqaure_internship\\DOTNET\\Project1\\Project1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Project1\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\CEDT\\softsqaure_internship\\DOTNET\\Project1\\Project1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Project1\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:17:10.453Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
